@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my application called *Personalized Privacy*.
 - 🌱 I’m currently learning flutter and ML.
 - 💬 Ask me about something you want to know rather than testing me with that.
-- 📫 *How to reach me:* 'mdirfan.code@gmail.com'
+- 📫 *How to reach me:* `mdirfan.code@gmail.com`
 - ⚡ *Fun fact: 'No matter how much fragrance you wear, when you will fart, it will smell terrible.'*
 
 ### You can Connect with me here:
