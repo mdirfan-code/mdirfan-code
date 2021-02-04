@@ -3,11 +3,11 @@
 <!--
 **mdirfan-code/mdirfan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my application called **Personalized Privacy**.
+- 🔭 I’m currently working on my application called *Personalized Privacy*.
 - 🌱 I’m currently learning flutter and ML.
 - 💬 Ask me about something you want to know rather than testing me with that.
-- 📫 How to reach me: mdirfan.code@gmail.com
-- ⚡ Fun fact: No matter how much fragrance you wear, when you will fart, it will smell terrible.
+- 📫 *How to reach me:* 'mdirfan.code@gmail.com'
+- ⚡ *Fun fact: 'No matter how much fragrance you wear, when you will fart, it will smell terrible.'*
 
 ### You can Connect with me here:
 
@@ -29,3 +29,10 @@
 <br> 
 
 ![Irfan's github stats](https://github-readme-stats.vercel.app/api?username=mdirfan-code&show_icons=true&theme=algolia&count_private=true)
+
+
+
+
+<br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mdirfan-code alt=mdirfan-code/></p>
+
