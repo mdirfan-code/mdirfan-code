@@ -3,8 +3,8 @@
 <!--
 **mdirfan-code/mdirfan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my application called *Personalized Privacy*.
-- 🌱 I’m currently learning flutter and ML.
+- 🔭 I’m currently working on my application called *PayThentic*.
+- 🌱 I’m currently learning MERN stack and ML.
 - 💬 Ask me about something you want to know rather than testing me with that.
 - 📫 *How to reach me:* `mdirfan.code@gmail.com`
 - ⚡ *Fun fact: 'No matter how much fragrance you wear, when you will fart, it will smell terrible.'*
