@@ -3,8 +3,9 @@
 <!--
 **mdirfan-code/mdirfan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my application called *Sentimeter*.
-- 🌱 I’m currently learning MERN stack and DL.
+- 🔭 I’m currently working on my data engineering project called *real-time-stock-prediction*.
+- 🌱 My Projects
+      * Web Scraping Amazon product data
 - 💬 Ask me about something you want to know rather than testing me with that.
 - 📫 *How to reach me:* `mdirfan.code@gmail.com`
 - ⚡ *Fun fact: 'No matter how much fragrance you wear, when you will fart, it will smell terrible.'*
